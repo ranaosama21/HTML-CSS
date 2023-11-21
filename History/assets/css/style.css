@@ -1,0 +1,75 @@
+
+    
+#heading1{
+    background-color: grey;
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+}
+#heading2{
+    background-color: grey;
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+
+}
+#h4{
+    background-color: grey;
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+
+}
+
+
+#h5{
+    background-color: grey;
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+
+}
+#heading3{
+    background-color: grey;
+    color: black;
+    font-size: 50px;
+    font-size: bold;
+}
+#h6{
+    background-color: grey;
+    color: black;
+    font-size: 50px;
+    font-size: bold;
+}
+#b1{
+    background-color: grey;
+    color: black;   
+    font-size: 50px;
+    font-size: bold;
+    
+}
+#k2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#p6{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#k7{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#b8{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#gb9{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
